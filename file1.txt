@@ -1,4 +1,5 @@
 Edit
 Second
 Third
+conflit
 
